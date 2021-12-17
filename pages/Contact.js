@@ -2,7 +2,7 @@ import Title from "../components/title/Title"
 import emailjs from 'emailjs-com'
 import styled from "styled-components"
 import React from "react"
-import InputContainer from "./components/contact/InputContainer"
+import InputContainer from "../components/contact/InputContainer"
 import Navbar from "./Navbar"
 
 const Container = styled.div`
