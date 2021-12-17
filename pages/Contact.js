@@ -1,4 +1,4 @@
-import Title from "./components/title/Title"
+import Title from "../components/title/Title"
 import emailjs from 'emailjs-com'
 import styled from "styled-components"
 import React from "react"

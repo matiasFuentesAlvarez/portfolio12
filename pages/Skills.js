@@ -1,7 +1,7 @@
-import Title from "./components/title/Title"
-import PrintedSkills from "./components/skills/PrintedSkills"
-import Container from "./components/skills/Container"
-import SkillsContainer from "./components/skills/SkillsContainer"
+import Title from "../components/title/Title"
+import PrintedSkills from "../components/skills/PrintedSkills"
+import Container from "../components/skills/Container"
+import SkillsContainer from "../components/skills/SkillsContainer"
 import Navbar from "./Navbar"
 
 const Skills = () => {

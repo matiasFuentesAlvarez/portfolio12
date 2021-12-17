@@ -1,5 +1,5 @@
-import Title from "./components/title/Title"
-import Container from "./components/proyects/Container"
+import Title from "../components/title/Title"
+import Container from "../components/proyects/Container"
 import Navbar from "./Navbar"
 const Proyects = () => {
   return (

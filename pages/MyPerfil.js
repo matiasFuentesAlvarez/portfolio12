@@ -1,8 +1,8 @@
-import Image from "./components/myperfil/Image"
-import Me from "./components/myperfil/Me"
-import Container from "./components/myperfil/Container"
-import Footer from "./components/myperfil/Footer"
-import MeContainer from "./components/myperfil/MeContainer"
+import Image from "../components/myperfil/Image"
+import Me from "../components/myperfil/Me"
+import Container from "../components/myperfil/Container"
+import Footer from "../components/myperfil/Footer"
+import MeContainer from "../components/myperfil/MeContainer"
 
 const MyPerfil = () => {
   return (

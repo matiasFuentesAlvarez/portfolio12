@@ -1,4 +1,4 @@
-import Buttons from "./components/navbar/buttons/Buttons"
+import Buttons from "../components/navbar/buttons/Buttons"
 import styled from "styled-components"
 
 const Content = styled.div`
