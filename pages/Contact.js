@@ -27,7 +27,7 @@ const Contact = () => {
   return (
     <div>
       <Navbar />
-      <Title>Contact</Title>
+      <Title>Contact123</Title>
 
       <Container>
         <form onSubmit={sendEmail}>
